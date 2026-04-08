@@ -1,4 +1,4 @@
-import WordCard from './components/WordCard'
+import WordCard from './components/WordCard-20260408'
 
 export default function Home() {
   return (
